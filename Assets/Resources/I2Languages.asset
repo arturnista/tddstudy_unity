@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: UI_TITLE
+      TermType: 0
+      Description: 
+      Languages:
+      - My Injected Game
+      - Meu Jogo Injetado
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_LEFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Left
+      - Esquerda
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_RIGHT
+      TermType: 0
+      Description: 
+      Languages:
+      - Right
+      - Direita
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Up
+      - Cima
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_DOWN
+      TermType: 0
+      Description: 
+      Languages:
+      - Down
+      - Baixo
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_MAIN_START_GAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Start Game2
+      - Iniciar Jogo
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_MAIN_OPTIONS
+      TermType: 0
+      Description: 
+      Languages:
+      - Options
+      - "Op\xE7\xF5es"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_MAIN_CREDITS
+      TermType: 0
+      Description: 
+      Languages:
+      - Credits
+      - "Cr\xE9ditos"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UI_MAIN_QUIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Quit
+      - Sair
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: "Portugu\xEAs"
+      Code: 
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwMo71UWV9oLQCeGwTlDUEqyWTWgqti66EzcTKw/exec
+    Google_SpreadsheetKey: 1OIlbuoqv-K78fzyRApgXGlhIXOVbhQJUsr2OK-VTlu0
+    Google_SpreadsheetName: I2Loc Template Localization
+    Google_LastUpdatedVersion: 1648814410556
+    Google_Password: change_this
+    GoogleUpdateFrequency: 0
+    GoogleInEditorCheckFrequency: 0
+    GoogleUpdateSynchronization: 2
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

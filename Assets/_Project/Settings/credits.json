@@ -1,0 +1,29 @@
+{
+    "areas": [
+        {
+            "title": "Created by",
+            "members": [
+                {
+                    "name": "Artur Nista",
+                    "link": "https://twitter.com/arturnista",
+                    "showLink": false
+                }
+            ]
+        },
+        {
+            "title": "Assets",
+            "members": [
+                {
+                    "name": "Kenney.nl",
+                    "link": "https://kenney.nl",
+                    "showLink": false
+                },
+                {
+                    "name": "Humble Fonts - Eeve Somepx",
+                    "link": "https://somepx.itch.io/humble-fonts-free",
+                    "showLink": false
+                }
+            ]
+        }
+    ]
+}
